@@ -1,0 +1,27 @@
+table{
+	width: 70%;
+	height: 100%;
+}
+
+.nav-text{
+	font-size: 1.5rem;
+}
+
+.CV-text{
+	font-size: 1.5rem;
+}
+
+#CV-hyperlink{
+	font-size: 1.5rem;
+	margin-left: 1%;
+	color:gray;
+}
+
+#CV-hyperlink:hover{
+	opacity: 0.6;
+	cursor: pointer;
+}
+
+.remove-underline{
+	text-decoration: none;
+}
